@@ -34,6 +34,17 @@
 
 ---
 
+### 🔁 My Daily Stack
+
+| ☀️ Mornings | 💼 Day Job @ Salesforce | 🌙 Evenings |
+|------------|--------------------------|--------------|
+| ☕ Coffee + Jupyter Lab | 📈 Customer Data Modeling | 📚 Learning New ML Tricks |
+| 🧠 Skimming Arxiv | 🔄 Pipeline Automation | 🎮 Gaming + Git commits |
+| 💬 Tech Twitter | 🧪 A/B Testing & Feature Eng | 📓 Side Projects + Content |
+
+---
+
+
 ### 🧪 What I'm Working On
 
 - 🔍 Training predictive models for large-scale customer behavior insights at Salesforce
@@ -64,3 +75,6 @@
 <p align="center">
   Thanks for stopping by! If you like what I do, ⭐️ a repo or drop a message 😄
 </p>
+
+
+
