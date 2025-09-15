@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Data wizardry">
 </p>
 
-<h3 align="center">🚀 Self-Taught Data Scientist @ Salesforce | Python Evangelist | AI Adventurer</h3>
+<h3 align="center">🚀 Self-Taught Data Scientist - Freelancer | Python Evangelist | AI Adventurer</h3>
 
 ---
 
